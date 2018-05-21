@@ -1,0 +1,7 @@
+Colocar no Path do windows:
+
+Caminho do oracle instant client
+
+Ex:
+
+C:\oracle\client_oracle11
